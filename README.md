@@ -25,6 +25,8 @@ Tu arrives au pied des ruines du chalet de ton grand-père, avec 30 francs et un
 6. **Le village** : la deuxième année, le tableau des commandes sur la place de Saint-Alpin.
 7. **La montagne** : la pêche, les gentianes, l'edelweiss des pentes rocheuses, et le Grand Pic à gravir de vire en vire.
 8. **Les bêtes sauvages** : se défendre à la houlette, à la fronde ou au fusil, dresser son chien, chasser l'ours.
+9. **Saint-Alpin en fête** : se faire des amis au village, participer à une fête.
+10. **Les sommets** : la Voie des Chamois, de rocher en rocher, jusqu'au drapeau.
 
 Un seul objectif à la fois, en haut à gauche, avec une flèche dorée qui montre où aller. On n'attend jamais sans savoir quoi faire. Après le dernier chapitre, les paliers continuent sans fin : un troupeau de plus en plus grand, des hivers de plus en plus rudes, des moutons plus têtus.
 
@@ -56,6 +58,11 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Pêche, champignons, gentianes, edelweiss. Pompon, la mule de Firmin, qu'on monte pour aller vite au village. La pioche casse les gros rochers ; les épicéas repoussent, et on plante des graines.
 - Des imprévus : une brebis qui ne rentre pas, un agneau coincé dans les rochers, un randonneur perdu.
 - Le Grand Pic : une aiguille de rocher à gravir en sautant de vire en vire, avec ses cairns, son chronomètre et le livre du sommet.
+- La Voie des Chamois : une grande voie à flanc de montagne, environ 170 sauts et 70 m de dénivelé, avec des poutres étroites, des plateformes qui glissent sur un câble et des dalles qui cèdent. Le temps d'Henri, le vieux chasseur, est à battre.
+- Les gens de Saint-Alpin (Rosalie, Joseph, Agathe, Anselme, Henri) vont et viennent dans le village. Une visite par jour, un cadeau qu'ils aiment : un jour, ils te rendent service.
+- Une fête par saison : la bénédiction des troupeaux, le concours de la mi-été, la désalpe, le marché de Noël.
+- L'élevage : chaque bête a ses qualités (laine fine, bonne laitière, robuste), et les agneaux tiennent de leurs parents. Trois âges de fromage, et le fromage d'alpage fait l'été.
+- Une carte de la vallée (touche N).
 - La partie se sauvegarde toute seule.
 
 ## Commandes
@@ -77,6 +84,7 @@ Toutes les touches se changent dans Échap, Réglages, Changer les touches.
 | T (rester appuyé) | traire une brebis qui allaite |
 | R | appeler le troupeau |
 | I | ouvrir le sac |
+| N | la carte de la vallée |
 | Clic gauche (en berger) | frapper, lancer une pierre, tirer |
 | V | changer d'arme (houlette, fronde, fusil) |
 | 1, 2, 3, 4 | chien : rassemble, au pied, couché, attaque |
