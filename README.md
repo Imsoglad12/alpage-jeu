@@ -22,6 +22,9 @@ Tu arrives au pied des ruines du chalet de ton grand-père, avec 30 francs et un
 3. **Edelweiss** : le vieux Firmin te confie sa brebis quand ton enclos est prêt. Elle te suit jusque chez toi.
 4. **Un compagnon** : un chien errant traîne autour du camp. Nourris-le, il deviendra Bello.
 5. **La cabane**, puis **le marchand** et sa mule, et enfin **le chalet** restauré, avec sa chambre à l'étage et son balcon.
+6. **Le village** : la deuxième année, le tableau des commandes sur la place de Saint-Alpin.
+7. **La montagne** : la pêche, les gentianes, l'edelweiss des pentes rocheuses, et le Grand Pic à gravir de vire en vire.
+8. **Les bêtes sauvages** : se défendre à la houlette, à la fronde ou au fusil, dresser son chien, chasser l'ours.
 
 Un seul objectif à la fois, en haut à gauche, avec une flèche dorée qui montre où aller. On n'attend jamais sans savoir quoi faire. Après le dernier chapitre, les paliers continuent sans fin : un troupeau de plus en plus grand, des hivers de plus en plus rudes, des moutons plus têtus.
 
@@ -29,9 +32,10 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 
 ## La survie
 
-- Le berger a faim et se fatigue. La nuit, sans abri ni feu, il a froid.
-- On mange du pain, du fromage ou des baies (M), on dort dans l'abri, la cabane ou le lit du chalet. Le jour, une sieste fait passer trois heures.
-- Celui qui se laisse aller s'évanouit et se réveille au camp, affaibli. On ne meurt pas.
+- Le berger a faim, se fatigue, peut être blessé. La nuit, sans abri ni feu, il a froid.
+- On mange (M) du pain, du fromage, des baies, un repas cuisiné à la cabane ou une tisane qui soigne. On dort dans l'abri, la cabane ou le lit du chalet. Le jour, une sieste fait passer trois heures.
+- Épuisé, il ne peut plus courir, puis il marche, se traîne à quatre pattes, rampe. S'il meurt, il se réveille au camp le lendemain, sans ce qu'il portait et avec la moitié de son argent.
+- Le sac (I) a ses limites : le coffre de la cabane ou du chalet range le reste.
 
 ## Le jeu
 
@@ -45,7 +49,13 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Le marchand monte avec sa mule tous les 3 jours, ou quand on sonne sa cloche, entre 6 h et 14 h. Le village de Saint-Alpin, en bas de la vallée, paie mieux.
 - Quatre saisons de 5 jours. L'hiver, la neige couvre tout : foin dans le râtelier et bergerie la nuit.
 - La météo change : nuages dont l'ombre passe sur la vallée, pluie, orage qui affole le troupeau, brouillard, canicule, tempête de neige.
-- À partir de la deuxième année, certaines nuits, les loups descendent de la forêt. Un enclos fermé, une bergerie, les lanternes, le feu, le berger et le chien qui aboie les tiennent à distance.
+- À partir de la deuxième année, certaines nuits, les loups descendent de la forêt. Un enclos fermé, une bergerie, les lanternes et le feu les tiennent à distance ; la houlette, la fronde, le fusil et le chien les chassent. Une meute s'en prend au berger seul dans le noir.
+- Plus rarement, un ours : il craint le feu, charge de près, et il faut plusieurs coups pour le faire fuir. Au crépuscule, parfois, un renard.
+- Le chien apprend ses ordres au fil des jours. Il peut être blessé (un bandage le soigne) et il peut mourir.
+- La cabane sert toute la partie : coffre, cuisine, meilleur sommeil, atelier (fronde, bandages, besace).
+- Pêche, champignons, gentianes, edelweiss. Pompon, la mule de Firmin, qu'on monte pour aller vite au village. La pioche casse les gros rochers ; les épicéas repoussent, et on plante des graines.
+- Des imprévus : une brebis qui ne rentre pas, un agneau coincé dans les rochers, un randonneur perdu.
+- Le Grand Pic : une aiguille de rocher à gravir en sautant de vire en vire, avec ses cairns, son chronomètre et le livre du sommet.
 - La partie se sauvegarde toute seule.
 
 ## Commandes
@@ -61,14 +71,17 @@ Toutes les touches se changent dans Échap, Réglages, Changer les touches.
 | X ou Verr. Num | course automatique |
 | Espace | sauter |
 | Tab | jouer le berger ou le chien |
-| E | agir : ramasser et abattre un arbre (rester appuyé), tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, dormir |
+| E | agir : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur la mule, dormir |
 | M | manger |
 | L | allumer ou éteindre la lanterne |
 | T (rester appuyé) | traire une brebis qui allaite |
 | R | appeler le troupeau |
-| 1, 2, 3 | chien : rassemble, au pied, couché |
+| I | ouvrir le sac |
+| Clic gauche (en berger) | frapper, lancer une pierre, tirer |
+| V | changer d'arme (houlette, fronde, fusil) |
+| 1, 2, 3, 4 | chien : rassemble, au pied, couché, attaque |
 | Clic droit | chien : va là où tu regardes |
-| Clic gauche (en chien) | aboyer |
+| F ou clic gauche (en chien) | aboyer |
 | B | mode construction (molette ou A / E pour tourner) |
 | H, Échap, F5, F11 | aide, pause, sauvegarder, plein écran |
 
