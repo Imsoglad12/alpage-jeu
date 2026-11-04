@@ -70,6 +70,9 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - L'élevage : chaque bête a ses qualités (laine fine, bonne laitière, robuste), et les agneaux tiennent de leurs parents. Trois âges de fromage, et le fromage d'alpage fait l'été.
 - Bise, le patou : Firmin vend un chiot, un grand chien blanc qui vit avec le troupeau. Grande, elle se couche au milieu des bêtes le jour, en fait le tour la nuit, aboie et se met entre le loup et les moutons : les loups la craignent.
 - L'estive : un pré d'altitude au-dessus du chalet, avec sa vieille cabane de pierre (on y dort) et sa source. L'été, les brebis y donnent plus de lait, la laine y pousse plus vite, et chaque bête qui a fait l'estive rapporte une prime à la désalpe. Mais la bergerie est loin : la nuit, gare aux loups.
+- Les soins : parer les onglons d'une bête qui boite, aider une brebis dont l'agnelage se passe mal, nourrir au biberon l'agneau rejeté ou orphelin, qui te suit partout jusqu'à son sevrage.
+- La fromagerie du chalet : la tomme, la raclette (neuf jours de cave, la meilleure des meules) et le sérac fait avec le petit-lait.
+- Le concours de chiens de troupeau, le jour de la mi-été : ton chien va chercher cinq brebis au fond du pré, tu les fais passer par deux portes à fanions puis entrer dans le parc, en quatre minutes. Une note, un classement, un prix.
 - Une carte de la vallée (touche N), avec une flèche qui montre où tu regardes ; le bouton « Voir l'herbe » colore les prés (haute, courte, rase) pour savoir où mener le troupeau pendant que le reste repousse.
 - Des bruits de pas selon le sol : herbe, sentier, neige, plancher, roche, eau.
 - La partie se sauvegarde toute seule.
