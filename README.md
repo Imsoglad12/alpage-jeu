@@ -68,7 +68,9 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - L'hiver : la luge sur les pentes enneigées, et le lac gelé où l'on pêche par un trou dans la glace.
 - Le travail de la laine, au rouet : laver la laine tondue, la filer, la teindre (baies, gentianes), tricoter chaussettes, bonnets, écharpes et pulls. Le premier pull et la première écharpe se portent ; les autres se vendent bien plus cher que la laine brute.
 - L'élevage : chaque bête a ses qualités (laine fine, bonne laitière, robuste), et les agneaux tiennent de leurs parents. Trois âges de fromage, et le fromage d'alpage fait l'été.
-- Une carte de la vallée (touche N), avec une flèche qui montre où tu regardes.
+- Bise, le patou : Firmin vend un chiot, un grand chien blanc qui vit avec le troupeau. Grande, elle se couche au milieu des bêtes le jour, en fait le tour la nuit, aboie et se met entre le loup et les moutons : les loups la craignent.
+- L'estive : un pré d'altitude au-dessus du chalet, avec sa vieille cabane de pierre (on y dort) et sa source. L'été, les brebis y donnent plus de lait, la laine y pousse plus vite, et chaque bête qui a fait l'estive rapporte une prime à la désalpe. Mais la bergerie est loin : la nuit, gare aux loups.
+- Une carte de la vallée (touche N), avec une flèche qui montre où tu regardes ; le bouton « Voir l'herbe » colore les prés (haute, courte, rase) pour savoir où mener le troupeau pendant que le reste repousse.
 - Des bruits de pas selon le sol : herbe, sentier, neige, plancher, roche, eau.
 - La partie se sauvegarde toute seule.
 
@@ -86,7 +88,7 @@ Comme dans World of Warcraft. Toutes les touches se changent dans Échap, Régla
 | X ou Verr. Num | course automatique |
 | Espace | sauter |
 | Tab | jouer le berger ou le chien |
-| E | agir : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur la mule, s'asseoir sur la luge, dormir |
+| E | agir (aussi : caresser le patou) : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur la mule, s'asseoir sur la luge, dormir |
 | M (ou 5) | manger |
 | E (appui bref) près d'un mouton | il te suit ; encore une fois, il reste là |
 | L (ou 6) | allumer ou éteindre la lanterne |
