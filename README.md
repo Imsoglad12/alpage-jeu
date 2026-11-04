@@ -66,6 +66,7 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Les gens de Saint-Alpin (Rosalie, Joseph, Agathe, Anselme, Henri) vont et viennent dans le village. Une visite par jour, un cadeau qu'ils aiment : un jour, ils te rendent service. Ils te demandent aussi de petits services, payés en francs et en amitié.
 - Une fête par saison : la bénédiction des troupeaux, le concours de la mi-été, la désalpe, le marché de Noël. Et le 1er Août : un bûcher à allumer sur la butte, des feux sur toutes les crêtes et un feu d'artifice au-dessus du village.
 - L'hiver : la luge sur les pentes enneigées, et le lac gelé où l'on pêche par un trou dans la glace.
+- Le travail de la laine, au rouet : laver la laine tondue, la filer, la teindre (baies, gentianes), tricoter chaussettes, bonnets, écharpes et pulls. Le premier pull et la première écharpe se portent ; les autres se vendent bien plus cher que la laine brute.
 - L'élevage : chaque bête a ses qualités (laine fine, bonne laitière, robuste), et les agneaux tiennent de leurs parents. Trois âges de fromage, et le fromage d'alpage fait l'été.
 - Une carte de la vallée (touche N), avec une flèche qui montre où tu regardes.
 - Des bruits de pas selon le sol : herbe, sentier, neige, plancher, roche, eau.
