@@ -35,9 +35,9 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 ## La survie
 
 - Le berger a faim, se fatigue, peut être blessé. La nuit, sans abri ni feu, il a froid.
-- On mange (5) du pain, du fromage, des baies, un repas cuisiné à la cabane ou une tisane qui soigne. On dort dans l'abri, la cabane ou le lit du chalet. Le jour, une sieste fait passer trois heures.
+- On mange (M) du pain, du fromage, des baies, un repas cuisiné à la cabane ou une tisane qui soigne. On dort dans l'abri, la cabane ou le lit du chalet. Le jour, une sieste fait passer trois heures.
 - Épuisé, il ne peut plus courir, puis il marche, se traîne à quatre pattes, rampe. S'il meurt, il se réveille le lendemain au camp, dans sa cabane ou dans son lit, sans ce qu'il portait et avec la moitié de son argent (200 francs au plus).
-- Le sac (B) a ses limites : le coffre de la cabane ou du chalet range le reste.
+- Le sac (B) a ses limites (une jauge le montre) : le coffre de la cabane ou du chalet range le reste. On y mange, on y jette 1, 10 ou tout.
 
 ## Le jeu
 
@@ -67,13 +67,13 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Une fête par saison : la bénédiction des troupeaux, le concours de la mi-été, la désalpe, le marché de Noël. Et le 1er Août : un bûcher à allumer sur la butte, des feux sur toutes les crêtes et un feu d'artifice au-dessus du village.
 - L'hiver : la luge sur les pentes enneigées, et le lac gelé où l'on pêche par un trou dans la glace.
 - L'élevage : chaque bête a ses qualités (laine fine, bonne laitière, robuste), et les agneaux tiennent de leurs parents. Trois âges de fromage, et le fromage d'alpage fait l'été.
-- Une carte de la vallée (touche M).
+- Une carte de la vallée (touche N), avec une flèche qui montre où tu regardes.
 - Des bruits de pas selon le sol : herbe, sentier, neige, plancher, roche, eau.
 - La partie se sauvegarde toute seule.
 
 ## Commandes
 
-Comme dans World of Warcraft. Toutes les touches se changent dans Échap, Réglages, Changer les touches. En bas de l'écran, la barre d'actions : 1 à 4 pour le chien, 5 pour manger, 6 pour la lanterne.
+Comme dans World of Warcraft. Toutes les touches se changent dans Échap, Réglages, Changer les touches. En bas de l'écran, la barre d'actions : 1 à 4 pour le chien, M pour manger, L pour la lanterne.
 
 | Touche | Action |
 |---|---|
@@ -86,16 +86,17 @@ Comme dans World of Warcraft. Toutes les touches se changent dans Échap, Régla
 | Espace | sauter |
 | Tab | jouer le berger ou le chien |
 | E | agir : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur la mule, s'asseoir sur la luge, dormir |
-| 5 | manger |
-| 6 ou L | allumer ou éteindre la lanterne |
+| M (ou 5) | manger |
+| E (appui bref) près d'un mouton | il te suit ; encore une fois, il reste là |
+| L (ou 6) | allumer ou éteindre la lanterne |
 | T (rester appuyé) | traire une brebis qui allaite |
 | R | appeler le troupeau |
-| B (ou I) | ouvrir le sac (on peut y jeter le surplus) |
+| B (ou I) | ouvrir le sac : manger, jeter, planter une graine |
 | C | ta fiche : santé, faim, fatigue, et pourquoi tu es ralenti |
-| M (ou N) | la carte de la vallée |
-| Clic gauche ou F (en berger) | frapper (trois coups qui s'enchaînent), lancer une pierre, tirer ; clic tenu puis lâché : le grand coup |
+| N | la carte de la vallée |
+| Clic gauche ou F (en berger) | frapper (trois coups qui s'enchaînent ; clic tenu puis lâché : le grand coup), faire tournoyer la fronde puis lâcher, tirer, abattre ou casser (hache, pioche en main), pêcher (canne en main) |
 | Espace face à un loup ou à l'ours | saut de côté : son attaque te rate et il reste sonné |
-| V | changer d'arme (houlette, fronde, fusil) |
+| V | changer ce que tu tiens en main : houlette, fronde, fusil, hache, pioche, canne à pêche |
 | 1, 2, 3, 4 | chien : rassemble, au pied, couché, attaque |
 | Clic droit | chien : va là où tu regardes |
 | F ou clic gauche (en chien) | aboyer |
