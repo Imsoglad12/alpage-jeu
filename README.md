@@ -80,12 +80,16 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 
 ## Commandes
 
-Comme dans World of Warcraft. Toutes les touches se changent dans Échap, Réglages, Changer les touches. En bas de l'écran, la barre d'actions : 1 à 4 pour le chien, M pour manger, L pour la lanterne.
+Comme dans World of Warcraft. La souris est libre : on la voit, on clique. Toutes les touches se changent dans Échap, Réglages, Changer les touches. En bas de l'écran, la barre d'actions se clique : les ordres du chien (Maj + 1 à 5), manger (N), la lanterne (L). Les chiffres seuls sont gardés pour le combat.
 
 | Touche | Action |
 |---|---|
-| Z Q S D (W A S D) ou flèches | se déplacer |
-| Souris, molette | regarder, rapprocher la caméra |
+| Z / S (W / S) ou flèches | avancer, reculer |
+| Q / D (A / D) | tourner (clic droit maintenu : un pas de côté) |
+| Clic droit maintenu | tourner la caméra ; la souris revient ensuite où elle était |
+| Clic gauche + clic droit | avancer |
+| Molette | rapprocher la caméra |
+| La souris | la fronde, le fusil, les constructions, les graines et « va là-bas » visent là où elle est |
 | Maj | courir vite |
 | Alt | marcher doucement (les moutons ont peur de qui court) |
 | Ctrl (rester appuyé) | s'accroupir (se glisser sous un rocher bas) |
@@ -93,19 +97,19 @@ Comme dans World of Warcraft. Toutes les touches se changent dans Échap, Régla
 | Espace | sauter |
 | Tab | jouer le berger ou le chien |
 | E | agir (aussi : caresser le patou) : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur la mule, s'asseoir sur la luge, dormir |
-| M (ou 5) | manger |
+| N | manger |
 | E (appui bref) près d'un mouton | il te suit ; encore une fois, il reste là |
-| L (ou 6) | allumer ou éteindre la lanterne |
+| L | allumer ou éteindre la lanterne |
 | T (rester appuyé) | traire une brebis qui allaite |
 | R | appeler le troupeau |
 | B (ou I) | ouvrir le sac : manger, jeter, planter une graine |
 | C | ta fiche : santé, faim, fatigue, et pourquoi tu es ralenti |
-| N | la carte de la vallée |
+| M | la carte de la vallée |
 | Clic gauche ou F (en berger) | frapper (trois coups qui s'enchaînent ; clic tenu puis lâché : le grand coup), faire tournoyer la fronde puis lâcher, tirer, abattre ou casser (hache, pioche en main), pêcher (canne en main) |
 | Espace face à un loup ou à l'ours | saut de côté : son attaque te rate et il reste sonné |
 | V | changer ce que tu tiens en main : houlette, fronde, fusil, hache, pioche, canne à pêche |
-| 1, 2, 3, 4 | chien : rassemble, au pied, couché, attaque |
-| Clic droit | chien : va là où tu regardes |
+| Maj + 1, 2, 3, 4 | chien : rassemble, au pied, couché, attaque |
+| Maj + 5 | chien : va là où est la souris (ou la case « Va là-bas », puis un clic au sol) |
 | F ou clic gauche (en chien) | aboyer |
 | G | mode construction (molette ou A / E pour tourner, X pour démolir) |
 | H, Échap, F5, F11 | aide, pause, sauvegarder, plein écran |
