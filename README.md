@@ -98,6 +98,7 @@ Comme dans World of Warcraft. La souris est libre : on la voit, on clique. Toute
 | E | agir (aussi : caresser le patou) : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur la mule, s'asseoir sur la luge, dormir |
 | N | manger |
 | E (appui bref) près d'un mouton | il te suit ; encore une fois, il reste là |
+| Clic sur la ligne « E : … » en bas de l'écran, ou tout près sur le mouton, la personne, la mule, la machine | comme E (tenu : E tenu) |
 | L | allumer ou éteindre la lanterne |
 | T (rester appuyé) | traire une brebis qui allaite |
 | R | appeler le troupeau |
