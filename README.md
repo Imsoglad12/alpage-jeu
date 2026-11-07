@@ -86,7 +86,7 @@ Comme dans World of Warcraft. La souris est libre : on la voit, on clique. Toute
 |---|---|
 | Z / S (W / S) ou flèches | avancer, reculer |
 | Q / D (A / D) | tourner (clic droit maintenu : un pas de côté) |
-| Clic droit maintenu | viser : le viseur reste là où était la souris, la souris tourne la vue ; clic gauche pendant ce temps : frapper, lancer, tirer vers le viseur |
+| Clic droit maintenu | viser : le viseur se place au centre de l'écran, la souris tourne la vue ; clic gauche pendant ce temps : frapper, lancer, tirer vers le viseur |
 | Molette | rapprocher la caméra |
 | La souris | la fronde, le fusil, les constructions, les graines et « va là-bas » visent là où elle est |
 | Maj | courir vite |
