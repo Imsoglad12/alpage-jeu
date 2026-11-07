@@ -45,6 +45,7 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Des moutons nez noirs du Valais, chacun avec son prénom et son caractère. Les agneaux suivent leur mère.
 - La laine pousse jour après jour, et on tond les moutons à la main.
 - Le chien rassemble le troupeau, va chercher les égarés, contourne les clôtures, se couche ou part là où tu regardes.
+- Firmin vend ses bêtes dans l'enclos du marché, à Saint-Alpin : six chaque matin, chacune avec son nom, son âge et ses qualités. On va voir celle qu'on veut, ou on la choisit dans sa liste ; elle sort par le portail et te suit.
 - Les moutons ont soif, faim, besoin de sel et d'un abri. L'abreuvoir se remplit au seau. Au printemps naissent les agneaux (parfois des jumeaux, rarement un agneau noir).
 - On trait les brebis qui allaitent et on fait du fromage au chaudron du chalet. Il s'affine en 3 jours.
 - En histoire, on construit avec du bois, des pierres et un peu d'argent (en partie libre, tout se paie en francs) : clôtures piquet par piquet, portails, abri, feu, cabane, lanternes, bergerie, abreuvoir, râtelier, pierre à sel.
