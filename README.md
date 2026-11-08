@@ -35,7 +35,7 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 ## La survie
 
 - Le berger a faim, se fatigue, peut être blessé. La nuit, sans abri ni feu, il a froid.
-- On mange (M) du pain, du fromage, des baies, un repas cuisiné à la cabane ou une tisane qui soigne. On dort dans l'abri, la cabane ou le lit du chalet. Le jour, une sieste fait passer trois heures.
+- On mange (N) du pain, du fromage, des baies, un repas cuisiné à la cabane ou une tisane qui soigne. On dort dans l'abri, la cabane ou le lit du chalet. Le jour, une sieste fait passer trois heures.
 - Épuisé, il ne peut plus courir, puis il marche, se traîne à quatre pattes, rampe. S'il meurt, il se réveille le lendemain au camp, dans sa cabane ou dans son lit, sans ce qu'il portait et avec la moitié de son argent (200 francs au plus).
 - Le sac (B) a ses limites (une jauge le montre) : le coffre de la cabane ou du chalet range le reste. On y mange, on y jette 1, 10 ou tout.
 
@@ -50,7 +50,7 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - On trait les brebis qui allaitent et on fait du fromage au chaudron du chalet. Il s'affine en 3 jours.
 - En histoire, on construit avec du bois, des pierres et un peu d'argent (en partie libre, tout se paie en francs) : clôtures piquet par piquet, portails, abri, feu, cabane, lanternes, bergerie, abreuvoir, râtelier, pierre à sel.
 - Le marchand monte avec sa mule tous les 3 jours, ou quand on sonne sa cloche, entre 6 h et 14 h. Le village de Saint-Alpin, en bas de la vallée, paie mieux.
-- Quatre saisons de 5 jours. L'hiver, la neige couvre tout : foin dans le râtelier et bergerie la nuit.
+- Quatre saisons de 5 jours, au soleil du vrai calendrier : les jours rallongent au printemps et raccourcissent en automne. L'hiver, la neige couvre tout : foin dans le râtelier et bergerie la nuit.
 - La météo change : nuages dont l'ombre passe sur la vallée, pluie, orage qui affole le troupeau, brouillard, canicule, tempête de neige.
 - À partir de la deuxième année, certaines nuits, les loups descendent de la forêt. Un enclos fermé, une bergerie, les lanternes et le feu les tiennent à distance ; la houlette, la fronde, le fusil et le chien les chassent. Une meute s'en prend au berger seul dans le noir.
 - Plus rarement, un ours : il craint le feu, charge de près, et il faut plusieurs coups pour le faire fuir. Au crépuscule, parfois, un renard.
@@ -75,7 +75,7 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - La fromagerie du chalet : la tomme, la raclette (neuf jours de cave, la meilleure des meules) et le sérac fait avec le petit-lait.
 - Le concours de chiens de troupeau, le jour de la mi-été : ton chien va chercher cinq brebis au fond du pré, tu les fais passer par deux portes à fanions puis entrer dans le parc, en quatre minutes. Une note, un classement, un prix.
 - La liste du troupeau, dans le sac : chaque bête et ce qu'il lui faut, les plus pressées d'abord, et où la trouver sur la carte.
-- Une carte de la vallée (touche N), avec une flèche qui montre où tu regardes ; le bouton « Voir l'herbe » colore les prés (haute, courte, rase) pour savoir où mener le troupeau pendant que le reste repousse.
+- Une carte de la vallée (touche M), avec une flèche qui montre où tu regardes ; le bouton « Voir l'herbe » colore les prés (haute, courte, rase) pour savoir où mener le troupeau pendant que le reste repousse.
 - Des bruits de pas selon le sol : herbe, sentier, neige, plancher, roche, eau.
 - La partie se sauvegarde toute seule.
 
