@@ -50,7 +50,7 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - On trait les brebis qui allaitent et on fait du fromage au chaudron du chalet. Il s'affine en 3 jours.
 - En histoire, on construit avec du bois, des pierres et un peu d'argent (en partie libre, tout se paie en francs) : clôtures piquet par piquet, portails, abri, feu, cabane, lanternes, bergerie, abreuvoir, râtelier, pierre à sel.
 - Le marchand monte avec sa mule tous les 3 jours, ou quand on sonne sa cloche, entre 6 h et 14 h. Le village de Saint-Alpin, en bas de la vallée, paie mieux.
-- Quatre saisons de 5 jours, au soleil du vrai calendrier : les jours rallongent au printemps et raccourcissent en automne. L'hiver, la neige couvre tout : foin dans le râtelier et bergerie la nuit.
+- Quatre saisons de 5 jours, au soleil du vrai calendrier : les jours rallongent au printemps et raccourcissent en automne, quand les mélèzes dorent. L'hiver, la neige couvre tout : foin dans le râtelier et bergerie la nuit.
 - La météo change : nuages dont l'ombre passe sur la vallée, pluie, orage qui affole le troupeau, brouillard, canicule, tempête de neige.
 - À partir de la deuxième année, certaines nuits, les loups descendent de la forêt. Un enclos fermé, une bergerie, les lanternes et le feu les tiennent à distance ; la houlette, la fronde, le fusil et le chien les chassent. Une meute s'en prend au berger seul dans le noir.
 - Plus rarement, un ours : il craint le feu, charge de près, et il faut plusieurs coups pour le faire fuir. Au crépuscule, parfois, un renard.
