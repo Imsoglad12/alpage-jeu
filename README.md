@@ -77,6 +77,9 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - La liste du troupeau, dans le sac : chaque bête et ce qu'il lui faut, les plus pressées d'abord, et où la trouver sur la carte.
 - Une carte de la vallée (touche M), avec une flèche qui montre où tu regardes ; le bouton « Voir l'herbe » colore les prés (haute, courte, rase) pour savoir où mener le troupeau pendant que le reste repousse.
 - Des bruits de pas selon le sol : herbe, sentier, neige, plancher, roche, eau.
+- Les rêves : certaines nuits, au coucher, un rêve t'appelle. En rêve, le temps s'arrête et une épreuve t'attend (gravir le Grand Pic avant l'aube, ou terrasser le Grand Loup des vieilles histoires, dont les attaques s'annoncent et s'esquivent). Réussie, elle te laisse un souvenir et un petit bienfait pour de bon ; perdue, une nuit agitée ; on peut toujours se réveiller.
+- Les hauts faits (touche Y) : 64 défis à relever en jouant, gardés d'une partie à l'autre ; ils te valent des parures (edelweiss, plume de tétras-lyre, barbe de chamois au chapeau, clochette au collier du chien).
+- Les missions de troupeau, au tableau du village : mener des bêtes à un pré et les y laisser brouter, ou les montrer à l'enclos du marché, avant l'heure dite, pour une prime.
 - La partie se sauvegarde toute seule.
 
 ## Commandes
@@ -106,6 +109,7 @@ Comme dans World of Warcraft. La souris est libre : on la voit, on clique. Toute
 | B (ou I) | ouvrir le sac : manger, jeter, planter une graine |
 | C | ta fiche : santé, faim, fatigue, et pourquoi tu es ralenti |
 | M | la carte de la vallée |
+| Y | les hauts faits |
 | Clic gauche ou F (en berger) | frapper (trois coups qui s'enchaînent ; clic tenu puis lâché : le grand coup), faire tournoyer la fronde puis lâcher, tirer, abattre ou casser (hache, pioche en main), pêcher (canne en main) |
 | Espace face à un loup ou à l'ours | saut de côté : son attaque te rate et il reste sonné |
 | V | changer ce que tu tiens en main : houlette, fronde, fusil, hache, pioche, canne à pêche |
