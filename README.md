@@ -28,7 +28,7 @@ Tu arrives au pied des ruines du chalet de ton grand-père, avec 30 francs et un
 9. **Saint-Alpin en fête** : se faire des amis au village, participer à une fête.
 10. **Les sommets** : la Voie des Chamois, de rocher en rocher, jusqu'au drapeau.
 
-Un seul objectif à la fois, en haut à gauche, avec une flèche dorée qui montre où aller. On n'attend jamais sans savoir quoi faire. Après le dernier chapitre, les paliers continuent sans fin : un troupeau de plus en plus grand, des hivers de plus en plus rudes, des moutons plus têtus.
+Un seul objectif à la fois, en haut à gauche, avec une flèche dorée qui montre où aller. On n'attend jamais sans savoir quoi faire. Après le dernier chapitre, les paliers continuent sans fin et mènent à tout ce que la vallée offre : un plus grand troupeau, les missions et les projets du tableau, les rêves, le carnet des rencontres ; des hivers de plus en plus rudes, des moutons plus têtus.
 
 La **partie libre** commence directement avec le chalet, l'enclos, douze moutons, le chien déjà dressé, les outils et 500 francs ; ni faim, ni fatigue, ni froid : seules les bêtes sauvages blessent.
 
@@ -81,7 +81,7 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Le livre des rêves, au chalet : tes souvenirs, tes meilleurs temps, et un rêve déjà réussi à refaire la nuit qui vient. Le dernier rêve fait, les nuits d'orage reviennent en plus dur.
 - Les projets du village, au tableau : des bancs, des fleurs pour la fontaine, des lanternes sur le chemin de l'alpage, offerts à Saint-Alpin.
 - Les hauts faits (touche Y) : 79 défis à relever en jouant, gardés d'une partie à l'autre ; ils te valent des parures (edelweiss, plume de tétras-lyre, barbe de chamois et couronne de fleurs au chapeau, clochette au collier du chien, pompon à la houlette, couronne pour la meneuse du troupeau).
-- Le carnet des rencontres, sur ta fiche : 21 bêtes de la montagne à voir ou à entendre, du chamois au ver luisant, et le gypaète barbu qui ne passe que rarement. Ta fiche garde aussi tes plus beaux poissons.
+- Le carnet des rencontres, sur ta fiche : 24 bêtes de la montagne à voir ou à entendre, du chamois au ver luisant, les bouquetins tout en haut dans les rochers, les salamandres noires après la pluie, et le gypaète barbu qui ne passe que rarement. Ta fiche garde aussi tes plus beaux poissons.
 - Le livre du troupeau : les lignées nées à l'alpage, génération après génération, et les qualités de chaque bête. Chaque printemps, le bilan de l'année passée.
 - Les missions de troupeau, au tableau du village : mener des bêtes à un pré et les y laisser brouter, les montrer à l'enclos du marché, les tondre devant les acheteurs, ou monter tout le troupeau à l'estive, avant l'heure dite, pour une prime (et, de temps en temps, une jeune brebis en cadeau). Chaque matin, un mot dit ce qui t'attend.
 - La partie se sauvegarde toute seule.
