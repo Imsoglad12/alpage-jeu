@@ -77,9 +77,9 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - La liste du troupeau, dans le sac : chaque bête et ce qu'il lui faut, les plus pressées d'abord, et où la trouver sur la carte.
 - Une carte de la vallée (touche M), avec une flèche qui montre où tu regardes ; le bouton « Voir l'herbe » colore les prés (haute, courte, rase) pour savoir où mener le troupeau pendant que le reste repousse.
 - Des bruits de pas selon le sol : herbe, sentier, neige, plancher, roche, eau.
-- Les rêves : certaines nuits, au coucher, un rêve t'appelle. En rêve, le temps s'arrête et une épreuve t'attend (gravir le Grand Pic avant l'aube, ou terrasser le Grand Loup des vieilles histoires, dont les attaques s'annoncent et s'esquivent). Réussie, elle te laisse un souvenir et un petit bienfait pour de bon ; perdue, une nuit agitée ; on peut toujours se réveiller.
-- Les hauts faits (touche Y) : 64 défis à relever en jouant, gardés d'une partie à l'autre ; ils te valent des parures (edelweiss, plume de tétras-lyre, barbe de chamois au chapeau, clochette au collier du chien).
-- Les missions de troupeau, au tableau du village : mener des bêtes à un pré et les y laisser brouter, ou les montrer à l'enclos du marché, avant l'heure dite, pour une prime.
+- Les rêves : certaines nuits, au coucher, un rêve t'appelle. En rêve, le temps s'arrête et une épreuve t'attend (gravir le Grand Pic avant l'aube, terrasser le Grand Loup des vieilles histoires, ramener les brebis perdues dans la brume, dérober l'escarboucle de la Vouivre). Réussie, elle te laisse un souvenir et un petit bienfait pour de bon ; perdue, une nuit agitée ; on peut toujours se réveiller.
+- Les hauts faits (touche Y) : 70 défis à relever en jouant, gardés d'une partie à l'autre ; ils te valent des parures (edelweiss, plume de tétras-lyre, barbe de chamois au chapeau, clochette au collier du chien).
+- Les missions de troupeau, au tableau du village : mener des bêtes à un pré et les y laisser brouter, les montrer à l'enclos du marché, les tondre devant les acheteurs, ou monter tout le troupeau à l'estive, avant l'heure dite, pour une prime.
 - La partie se sauvegarde toute seule.
 
 ## Commandes
