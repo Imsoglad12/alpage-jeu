@@ -78,9 +78,11 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Une carte de la vallée (touche M), avec une flèche qui montre où tu regardes ; le bouton « Voir l'herbe » colore les prés (haute, courte, rase) pour savoir où mener le troupeau pendant que le reste repousse.
 - Des bruits de pas selon le sol : herbe, sentier, neige, plancher, roche, eau.
 - Les rêves : certaines nuits, au coucher, un rêve t'appelle. En rêve, le temps s'arrête et une épreuve t'attend (gravir le Grand Pic avant l'aube, terrasser le Grand Loup des vieilles histoires, ramener les brebis perdues dans la brume, dérober l'escarboucle de la Vouivre). Réussie, elle te laisse un souvenir et un petit bienfait pour de bon ; perdue, une nuit agitée ; on peut toujours se réveiller.
-- Le livre des rêves, au chalet : tes souvenirs, tes meilleurs temps, et un rêve déjà réussi à refaire la nuit qui vient.
+- Le livre des rêves, au chalet : tes souvenirs, tes meilleurs temps, et un rêve déjà réussi à refaire la nuit qui vient. Le dernier rêve fait, les nuits d'orage reviennent en plus dur.
 - Les projets du village, au tableau : des bancs, des fleurs pour la fontaine, des lanternes sur le chemin de l'alpage, offerts à Saint-Alpin.
-- Les hauts faits (touche Y) : 72 défis à relever en jouant, gardés d'une partie à l'autre ; ils te valent des parures (edelweiss, plume de tétras-lyre, barbe de chamois au chapeau, clochette au collier du chien).
+- Les hauts faits (touche Y) : 79 défis à relever en jouant, gardés d'une partie à l'autre ; ils te valent des parures (edelweiss, plume de tétras-lyre, barbe de chamois et couronne de fleurs au chapeau, clochette au collier du chien, pompon à la houlette, couronne pour la meneuse du troupeau).
+- Le carnet des rencontres, sur ta fiche : 21 bêtes de la montagne à voir ou à entendre, du chamois au ver luisant, et le gypaète barbu qui ne passe que rarement. Ta fiche garde aussi tes plus beaux poissons.
+- Le livre du troupeau : les lignées nées à l'alpage, génération après génération, et les qualités de chaque bête. Chaque printemps, le bilan de l'année passée.
 - Les missions de troupeau, au tableau du village : mener des bêtes à un pré et les y laisser brouter, les montrer à l'enclos du marché, les tondre devant les acheteurs, ou monter tout le troupeau à l'estive, avant l'heure dite, pour une prime (et, de temps en temps, une jeune brebis en cadeau). Chaque matin, un mot dit ce qui t'attend.
 - La partie se sauvegarde toute seule.
 
@@ -101,7 +103,7 @@ Comme dans World of Warcraft. La souris est libre : on la voit, on clique. Toute
 | X ou Verr. Num | course automatique |
 | Espace | sauter |
 | Tab | jouer le berger ou le chien |
-| E | agir (aussi : caresser le patou) : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur la mule, s'asseoir sur la luge, dormir |
+| E | agir (aussi : caresser Bello ou le patou) : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur la mule, s'asseoir sur la luge, dormir |
 | N | manger |
 | E (appui bref) près d'un mouton | il te suit ; encore une fois, il reste là |
 | Clic sur la ligne « E : … » en bas de l'écran, ou tout près sur le mouton, la personne, la mule, la machine | comme E (tenu : E tenu) |
@@ -109,7 +111,7 @@ Comme dans World of Warcraft. La souris est libre : on la voit, on clique. Toute
 | T (rester appuyé) | traire une brebis qui allaite |
 | R | appeler le troupeau |
 | B (ou I) | ouvrir le sac : manger, jeter, planter une graine |
-| C | ta fiche : santé, faim, fatigue, et pourquoi tu es ralenti |
+| C | ta fiche : santé, faim, fatigue, pourquoi tu es ralenti, ton carnet des rencontres |
 | M | la carte de la vallée |
 | Y | les hauts faits |
 | Clic gauche ou F (en berger) | frapper (trois coups qui s'enchaînent ; clic tenu puis lâché : le grand coup), faire tournoyer la fronde puis lâcher, tirer, abattre ou casser (hache, pioche en main), pêcher (canne en main) |
