@@ -79,7 +79,8 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Des bruits de pas selon le sol : herbe, sentier, neige, plancher, roche, eau.
 - Les rêves : certaines nuits, au coucher, un rêve t'appelle. En rêve, le temps s'arrête et une épreuve t'attend (gravir le Grand Pic avant l'aube, terrasser le Grand Loup des vieilles histoires, ramener les brebis perdues dans la brume, dérober l'escarboucle de la Vouivre). Réussie, elle te laisse un souvenir et un petit bienfait pour de bon ; perdue, une nuit agitée ; on peut toujours se réveiller.
 - Le livre des rêves, au chalet : tes souvenirs, tes meilleurs temps, et un rêve déjà réussi à refaire la nuit qui vient.
-- Les hauts faits (touche Y) : 70 défis à relever en jouant, gardés d'une partie à l'autre ; ils te valent des parures (edelweiss, plume de tétras-lyre, barbe de chamois au chapeau, clochette au collier du chien).
+- Les projets du village, au tableau : des bancs, des fleurs pour la fontaine, des lanternes sur le chemin de l'alpage, offerts à Saint-Alpin.
+- Les hauts faits (touche Y) : 72 défis à relever en jouant, gardés d'une partie à l'autre ; ils te valent des parures (edelweiss, plume de tétras-lyre, barbe de chamois au chapeau, clochette au collier du chien).
 - Les missions de troupeau, au tableau du village : mener des bêtes à un pré et les y laisser brouter, les montrer à l'enclos du marché, les tondre devant les acheteurs, ou monter tout le troupeau à l'estive, avant l'heure dite, pour une prime (et, de temps en temps, une jeune brebis en cadeau). Chaque matin, un mot dit ce qui t'attend.
 - La partie se sauvegarde toute seule.
 
