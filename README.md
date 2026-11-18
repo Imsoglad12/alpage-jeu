@@ -88,7 +88,7 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Le carnet des rencontres, sur ta fiche : 24 bêtes de la montagne à voir ou à entendre, du chamois au ver luisant, les bouquetins tout en haut dans les rochers, les salamandres noires après la pluie, et le gypaète barbu qui ne passe que rarement. Ta fiche garde aussi tes plus beaux poissons.
 - Le livre du troupeau : les lignées nées à l'alpage, génération après génération, et les qualités de chaque bête. Chaque printemps, le bilan de l'année passée.
 - Les missions de troupeau, au tableau du village : mener des bêtes à un pré et les y laisser brouter, les montrer à l'enclos du marché, les tondre devant les acheteurs, ou monter tout le troupeau à l'estive, avant l'heure dite, pour une prime (et, de temps en temps, une jeune brebis en cadeau). Souvent deux missions au choix ; trois réussies pour le même client, il devient fidèle et paie un quart de plus, une manquée, il boude cinq jours. Toutes les bêtes sur place, assieds-toi et garde le troupeau : le temps qu'il faut passe d'un coup. Chaque matin, un mot dit ce qui t'attend.
-- Les foins : l'été et l'automne, la faux en main, fauche l'herbe haute en avançant à petits pas. Le foin sèche au soleil en quatre heures de beau temps ; la pluie le lave (un quart de perdu). Sec, ramasse-le en passant dessus : il va au fenil, pour l'hiver.
+- Les foins : l'été et l'automne, la faux en main, fauche l'herbe haute en avançant à petits pas. Le foin sèche au soleil en quatre heures de beau temps ; la pluie le lave (un quart de perdu). Sec, ramasse-le en passant dessus : il va au fenil, pour l'hiver. Un baromètre de poche (chez Marcel) dit le temps des prochaines heures.
 - La partie se sauvegarde toute seule.
 
 ## Commandes
