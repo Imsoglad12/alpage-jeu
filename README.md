@@ -58,7 +58,7 @@ La **partie libre** commence directement avec le chalet, l'enclos, douze moutons
 - Le chien apprend ses ordres au fil des jours. Il peut être blessé (un bandage le soigne) et il peut mourir.
 - Arrêté près de lui, il t'apporte parfois un bâton : lance-le, il court le chercher et te le rapporte. Une caresse, et il remue la queue.
 - La cabane sert toute la partie : coffre, cuisine, meilleur sommeil, atelier (fronde, bandages, besace).
-- Pêche, champignons, gentianes, edelweiss. Au pied des rochers, des abris sous roche cachent un edelweiss : on s'y glisse accroupi (Ctrl). Accroupi et immobile, les brebis curieuses viennent te voir. Pompon, la mule de Firmin, qu'on monte pour aller vite au village. La pioche casse les gros rochers ; les épicéas repoussent, et on plante des graines.
+- Pêche, champignons, gentianes, edelweiss. Au pied des rochers, des abris sous roche cachent un edelweiss : on s'y glisse accroupi (Ctrl). Accroupi et immobile, les brebis curieuses viennent te voir. Pompon, l'ânesse de Firmin, qu'on monte pour aller vite au village. La pioche casse les gros rochers ; les épicéas repoussent, et on plante des graines.
 - Des imprévus : une brebis qui ne rentre pas, un agneau coincé dans les rochers, un randonneur perdu.
 - Sur les sentiers, des promeneurs viennent à ta rencontre et te saluent ; arrête-les pour un mot, un conseil ou une poignée de myrtilles. Et de loin en loin, au bord du chemin, un objet qu'un villageois a perdu brille dans l'herbe : rapporte-le-lui.
 - Le Grand Pic : une aiguille de rocher à gravir en sautant de vire en vire, avec ses cairns, son chronomètre et le livre du sommet.
@@ -108,10 +108,10 @@ Comme dans World of Warcraft. La souris est libre : on la voit, on clique. Toute
 | X ou Verr. Num | course automatique |
 | Espace | sauter |
 | Tab | jouer le berger ou le chien |
-| E | agir (aussi : caresser Bello ou le patou) : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur la mule, s'asseoir sur la luge, dormir |
+| E | agir (aussi : caresser Bello ou le patou) : ramasser et abattre un arbre (rester appuyé), casser un rocher, pêcher, tondre, parler, commercer, portes et portails, puiser de l'eau, fromage, soigner le chien, monter sur Pompon, s'asseoir sur la luge, dormir |
 | N | manger |
 | E (appui bref) près d'un mouton | il te suit ; encore une fois, il reste là |
-| Clic sur la ligne « E : … » en bas de l'écran, ou tout près sur le mouton, la personne, la mule, la machine | comme E (tenu : E tenu) |
+| Clic sur la ligne « E : … » en bas de l'écran, ou tout près sur le mouton, la personne, Pompon, la machine | comme E (tenu : E tenu) |
 | L | allumer ou éteindre la lanterne |
 | T (rester appuyé) | traire une brebis qui allaite |
 | R | appeler le troupeau |
