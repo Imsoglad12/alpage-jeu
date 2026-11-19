@@ -9,7 +9,7 @@ Un homme a tout quitté pour l'alpage. Un berger, son chien et son troupeau dans
 1. Dézipper le dossier où tu veux, par exemple sur le Bureau.
 2. Double-cliquer sur `Alpage.exe`.
 3. Si Windows affiche « Windows a protégé votre ordinateur », cliquer sur « Informations complémentaires » puis « Exécuter quand même ». Le jeu n'est pas signé numériquement, c'est normal pour un jeu fait maison.
-4. Le premier chargement prend environ 25 secondes.
+4. Le premier chargement prend environ 30 secondes : le jeu fabrique la vallée.
 
 Il faut Windows 10 ou 11 (64 bits). Une carte graphique de jeu est conseillée. Si le jeu est lent : Échap, Réglages, Qualité graphique « Basse », puis relancer.
 
